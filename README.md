@@ -2,13 +2,13 @@
 This is a bot to allow people to set their timezone so others can check what is their localtime 
 
 # commands
-## !timezone set <hour>
+## !timezone set \<hour\>
   set the timezone for the current user, can be both positive and negative
   
-## !timezone get <nickname>
+## !timezone get \<nickname\>
   prints the user's timezone
 
-## !localtime <nickname>
+## !localtime \<nickname\>
   prints the localtime of that user
 
 # Setup
